@@ -1,0 +1,1 @@
+source "$BR2_EXTERNAL_raspberrypi4_64_pxe_PATH/package/dhtest/Config.in"

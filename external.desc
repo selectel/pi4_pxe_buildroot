@@ -1,0 +1,2 @@
+name: raspberrypi4_64_pxe
+desc: raspberrypi4_64_pxe: builds special image to boot raspberry Pi4 over pxe

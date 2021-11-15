@@ -1,0 +1,7 @@
+config BR2_PACKAGE_DHTEST
+	bool "dhtest"
+	help
+    DHCP client simulation utility.
+
+    https://github.com/saravana815/dhtest
+
